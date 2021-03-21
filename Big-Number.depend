@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1574445597 source:c:\users\chill\desktop\task1\main.cpp
+	<iostream>
+	"big_num.hpp"
+
+1574445554 c:\users\chill\desktop\task1\big_num.hpp
+	<bits/stdc++.h>
+
+1574445507 source:c:\users\chill\desktop\task1\big_num.cpp
+	"big_num.hpp"
+	<bits/stdc++.h>
+
+1574450531 source:c:\users\chill\desktop\cs\university\oop\assignment2\task1\big_num.cpp
+	"big_num.hpp"
+	<iostream>
+	<string>
+	<sstream>
+	<deque>
+
+1574447398 c:\users\chill\desktop\cs\university\oop\assignment2\task1\big_num.hpp
+	<iostream>
+	<string>
+	<sstream>
+
+1574447017 source:c:\users\chill\desktop\cs\university\oop\assignment2\task1\main.cpp
+	<iostream>
+	"big_num.hpp"
+
